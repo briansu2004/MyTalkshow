@@ -6,6 +6,8 @@ My talk show
 
 ### Costco
 
+<https://youtu.be/JS3Vw5oUusI>
+
 As a mid-age family man who lives in Canada, Costco is a place you can't miss.
 
 Especially when COVID started a few years ago, you want to reduce your unnecessary outdoor activities, you gonna go to Costco to have a one-stop-for-all shop for one or more weeks - at least I keep doing that. Every time when I cleared my shopping cart, sometimes there are 2 carts, I pay more than $1000 dollars. The highest was $1500.
