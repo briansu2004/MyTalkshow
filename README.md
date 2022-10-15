@@ -6,7 +6,6 @@ My talk show
 
 ### Costco
 
-```dos
 As a mid-age family man who lives in Canada, Costco is a place you can't miss.
 
 Especially when COVID started a few years ago, you want to reduce your unnecessary outdoor activities, you gonna go to Costco to have a one-stop-for-all shop for one or more weeks - at least I keep doing that. Every time when I cleared my shopping cart, sometimes there are 2 carts, I pay more than $1000 dollars. The highest was $1500.
@@ -19,12 +18,11 @@ But all of these things are not problems. I am fine for them. However, I don't u
 
 Let me explain - I believe nobody wants to waste time on lining up. Have you heard that one of the Murphy's laws is - whichever line you chose to line up, it would be the slowest. Does it ring the bell? I am a busy man so I really want to take the shortest time on lining up. You know there is no express checkout in Costco ... So one day I found at my favorite Richmond Hill Costco, some lines only have 1 cashier, but some lines there are another assistant lady. I call them assistant ladies because they are always female, they took your items from your buggy (hi I don't know why they called it in such a weird name), put on the conveyor belt, then did the reverse things after the cashier scanned all of them. I feel this will speed up the checkout process, right? But wait. Things are never easy like that.
 
-Let me tell you what I ended up with. Every single time when I chose the line that has an assistant lady, I watched her to do her job well to every customer in front of me. Finally, it was my turn, then the magic started. She walked away. She just left and then the line became a normal line again. This happened every single time - total about 10 times already. Sometimes the assistant lady saw me, but other times she didn't even see me at all. But she just did the same thing. 
+Let me tell you what I ended up with. Every single time when I chose the line that has an assistant lady, I watched her to do her job well to every customer in front of me. Finally, it was my turn, then the magic started. She walked away. She just left and then the line became a normal line again. This happened every single time - total about 10 times already. Sometimes the assistant lady saw me, but other times she didn't even see me at all. But she just did the same thing.
 
 Why? This is not scientific. It doesn't apply the probability rules. If you toss a coin, there are 50% probability to be head, and 50% probability to be tail, right?
 
 Where is the problem? I even tried to take off my hat and expose my grey hair. I am not bald but I got grey hair since I was a teenager. But this card never helped. I've solved a lot of math problems since I had grey hair, but I can't solve this problem.
-```
 
 ## 2022-01-15
 
