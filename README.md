@@ -31,3 +31,30 @@ Where is the problem? I even tried to take off my hat and expose my grey hair. I
 Contractor vs Perm
 
 Contractor vs Wife
+
+## Misc
+
+### Supported YouTube file formats
+
+Note: Audio files, like MP3, WAV, or PCM files, can’t be uploaded to YouTube. You can use video editing software to convert your audio file to a video.
+
+If you're not sure which format to save your video as or are getting an "invalid file format" error message when you're uploading, make sure that you’re using one of the following formats:
+
+- .MOV
+- .MPEG-1
+- .MPEG-2
+- .MPEG4
+- .MP4
+- .MPG
+- .AVI
+- .WMV
+- .MPEGPS
+- .FLV
+- 3GPP
+- WebM
+- DNxHR
+- ProRes
+- CineForm
+- HEVC (h265)
+
+### Windows Voice Recorder
