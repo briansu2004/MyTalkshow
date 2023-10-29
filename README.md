@@ -4,6 +4,10 @@ My talk show
 
 ## 2023-10-03 : My name
 
+What is yours but it is used by others more than by yourself?
+
+什么东西是你的, 但是别人却用的比你多?
+
 ...
 
 ## 2022-10-15 : Costco
